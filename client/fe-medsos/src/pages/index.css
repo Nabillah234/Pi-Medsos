@@ -103,3 +103,18 @@
   color: #000;
   white-space: pre-wrap;
 }
+
+.reply-box {
+  margin-left: 50px;
+  border-left: 2px solid #eee;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+.user-picker {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+
+
